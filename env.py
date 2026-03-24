@@ -1,4 +1,5 @@
 import os
 os.environ['CLOUDINARY_URL'] = (
-	'cloudinary://<972877676261337>:<3cHnf87fPcwgY9idETlBs11Ys74>@diphfoons'
+	'cloudinary://<939297373232796>:<ypDPPRXmk9LK7LuWnNCHRUYmzM8>@diphfoons'
 )
+
