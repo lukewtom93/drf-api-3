@@ -1,2 +1,4 @@
 import os
-os.environ['CLOUDINARY_URL'] = 'cloudinary://<your_api_key>:<your_api_secret>@diphfoons'
+os.environ['CLOUDINARY_URL'] = (
+	'cloudinary://<972877676261337>:<3cHnf87fPcwgY9idETlBs11Ys74>@diphfoons'
+)
