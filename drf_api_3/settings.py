@@ -112,7 +112,7 @@ CORS_ALLOWED_ORIGINS = [
    ] if origin
  ]
 
-CORS_ALLOWED_ORIGINS = True
+CORS_ALLOWED_CREDENTIALS = True
 
 ROOT_URLCONF = 'drf_api_3.urls'
 
@@ -149,7 +149,7 @@ else:
     DATABASES = {
         'default': dj_database_url.parse(os.environ.get("DATABASE_URL"))
     }
-    print('connected')
+
 
 
 # Password validation
