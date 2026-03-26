@@ -119,6 +119,7 @@ CORS_ALLOWED_ORIGINS = [
 
 CSRF_TRUSTED_ORIGINS = [
     "http://localhost:3000",
+    "https://drf-api-3-1b78de3f40a3.herokuapp.com"
 ]
 
 ROOT_URLCONF = 'drf_api_3.urls'
